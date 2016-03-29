@@ -1,16 +1,18 @@
 # 技术搭档
 
 > 这是一个很有弹性的职位
+>
 > 目前能想到的职位描述是：**我的技术搭档**
+>
 > 我是云币网的 CEO 及 CTO，也是 PEATIO 项目的作者
 
 ## 招募要求：
 
-能完全读懂 开源项目 [peatio/peatio](https://github.com/peatio/peatio) 的代码
-精通 Ruby / Javascript 语言
-精通 Rails / React / Redux 框架
-熟悉：Linux / MySQL / Redis / RabbitMQ / Docker
-如果再擅长写点 SASS / LESS / PostCSS 那就更好了
+- 能完全读懂 开源项目 [peatio/peatio](https://github.com/peatio/peatio) 的代码
+- 精通 Ruby / Javascript 语言
+- 精通 Rails / React / Redux 框架
+- 熟悉：Linux / MySQL / Redis / RabbitMQ / Docker
+- 如果再擅长写点 SASS / LESS / PostCSS 那就更好了
 
 如果你会 Go / Elixir 我们也非常欢迎
 
@@ -34,13 +36,14 @@
 - 其他的由您自己争取
 
 --------
+## 请您回答：
 
-## 您最近学习了什么新技术？有什么收获？
+### 您最近学习了什么新技术？有什么收获？
 
-## 您认为自己学习新技术的能力如何？
+### 您认为自己学习新技术的能力如何？
 
-## 您目前使用的开发工具都有哪些？
+### 您目前使用的开发工具都有哪些？
 
-## 您平时怎么让自己保持良好的工作状态？
+### 您平时怎么让自己保持良好的工作状态？
 
-## 您在编写代码的时候，会有怎样的感受？
+### 您在编写代码的时候，会有怎样的感受？
